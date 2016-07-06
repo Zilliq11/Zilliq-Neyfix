@@ -1,1 +1,3 @@
-Je vais commencer à apprendre le python, et je mettrais certaines choses en lignes sur GitHub.
+﻿Je vais commencer à apprendre le python, et je mettrais certaines choses en lignes sur GitHub.
+
+Bon, on commence quand? :)
